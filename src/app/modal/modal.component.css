@@ -1,0 +1,22 @@
+.imagem{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 43%;
+    padding: 24px;
+    top: 45%;
+    text-align: center;
+}
+
+.modal {
+    border-radius: 8px;
+}
+
+.imagem2{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 43%;
+    padding: 24px;
+    top: 45%;
+}
